@@ -4,14 +4,6 @@ public class PromptsConstants {
 
     private PromptsConstants() {}
 
-    public static final String DOG_ASKING_FOR_SUB = """
-            Create an engaging image featuring a charming dog in the center, enthusiastically pointing towards a YouTube logo or icon.
-            The dog should have a friendly expression, with its paw extended towards the YouTube logo as if inviting viewers to click
-            and subscribe. Surround the dog with elements that represent the channel's content, such as dog toys, treats, or a vibrant
-            background depicting scenes of dogs playing and interacting. Ensure the dog's body language and facial expression convey
-            excitement and eagerness to connect with viewers.
-            """;
-
     public static final String FUTURISTIC_VARANASI = """
             Imagine and illustrate a futuristic cityscape set in the year 3000 AD, showcasing New Varanasi as a marvel of technological
             advancement and urban development while retaining its rich Indian heritage and Hindu architectural elements. The city should
